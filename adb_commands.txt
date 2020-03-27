@@ -1,0 +1,5 @@
+Connect to adb on WiFi:
+- adb tcpip 5555
+- adb connect 192.188.1.40:5555
+
+
